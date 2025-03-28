@@ -14,7 +14,7 @@ Descripción del problema que soluciona el proyecto y su impacto.
 
 ---
 
-## -nstalación
+## -instalación
 
 ### -Requisitos previos
 Lista de herramientas o dependencias necesarias para ejecutar el proyecto.
